@@ -1,0 +1,28 @@
+name: giSwell
+favicon: null
+layout_spectrum: 0.020136232487857342
+typography_spectrum: 0.8943674117326736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7080833225045353
+  lightness: 0.7914248071610928
+  saturation: 0.6753575459588319
+  rhythmicContrast: 0.9643729669041932
+purpose: []
